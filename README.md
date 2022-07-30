@@ -1,4 +1,4 @@
-### Hi there 👋 , this is Shweta Killedar
+### Hi there 👋 , I am Shweta Killedar
 
 <!--
 **shwetakilledar/shwetakilledar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
