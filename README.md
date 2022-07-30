@@ -1,5 +1,6 @@
 ### Hi there , I am Shweta
 
+I love full stack development
 
 <!--
 **shwetakilledar/shwetakilledar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
